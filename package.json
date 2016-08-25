@@ -1,0 +1,21 @@
+{
+  "name": "allex_allpassuserresolverservice",
+  "version": "0.1.0",
+  "description": "AllPassUserResolverService",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url" : "git@gitlab.hers.rs:allex_services/allpassuserresolver"
+  },
+  "keywords": [
+    "ecosystem:allex",
+    "Service",
+    "AllPassUserResolver"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
+
