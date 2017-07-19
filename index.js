@@ -2,10 +2,10 @@ function createServicePack(execlib) {
   'use strict';
   return {
     service: {
-      dependencies: ['allex:userresolver']
+      dependencies: ['allex_userresolverservice']
     },
     sinkmap: {
-      dependencies: ['allex:userresolver']
+      dependencies: ['allex_userresolverservice']
     }, /*
     tasks: {
       dependencies: []
